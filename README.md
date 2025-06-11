@@ -6,7 +6,7 @@ A simple web app for real-time currency conversion using live exchange rates.
 
 ## 🌐 Access the App
 
-👉 [Click here to open the Currency Converter](https://your-live-demo-link.com)  
+👉 [Click here to open the Currency Converter](https://currency-converter-nine-weld-67.vercel.app/)
 
 ## ✨ Features
 
