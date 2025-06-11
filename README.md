@@ -2,6 +2,8 @@
 
 A simple web app for real-time currency conversion using live exchange rates.
 
+![Screenshot of App](./images/displayOfApp.png)
+
 ## 🌐 Access the App
 
 👉 [Click here to open the Currency Converter](https://your-live-demo-link.com)  
